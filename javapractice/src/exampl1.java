@@ -4,7 +4,7 @@ public class exampl1 {
             System.out.println(arr[i]);
     }
     public static void main(String[] args) {
-        printArray(new int[]{10,22,44,66});
+        printArray(new int[]{22,56,84,96,74});
 
     }
 }
